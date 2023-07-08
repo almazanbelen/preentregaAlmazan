@@ -1,0 +1,33 @@
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+/* esilos de las cart*/
+
+.cartDescription{
+    width: 17rem;
+    height: 27rem;
+    margin: 1rem;
+    border-style: double;
+    border-color: #b8cad0;
+    box-shadow: 4px 4px 15px #4a5053;  
+}
+
+.imgDefault{
+    margin: 1.3rem;
+}
+
+.productName{
+    margin: 1rem;
+    text-align: center;
+    color: #b8cad0;
+    font-size: 1rem;
+}
+
+.button{
+    margin: 1rem 3.6rem;
+    align-self: center;
+}
+
